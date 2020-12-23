@@ -30,6 +30,8 @@ We have mainly used listings and calendar dataset.
 2. Number of bedrooms and property type are also important for setting affordable price.
 3. Availabily is not stable all year round. September to November is variying season. From January to September it remains pretty stable.
 4. Few amenities such as wheelchair accessibilty, washer dryrer, TV, elevator add value to the property and pricing.
+5. Reviews rating doesn't really impact on price variability.
+6. The r squared value is 0.64 which explains the price variablity of 64% by our linear model which is not that bad. But there is still more room for improvement for better prediction.
 
 ## Acknowledgements
 Special thanks to Kaggle and Udacity for the resources to explore this dataset.
